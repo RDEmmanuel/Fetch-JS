@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Emmanuel",
+        "apellido": "Ruiz Diaz",
+        "edad": "26",
+        "direccion": "Gdor Gallino 399",
+        "correo": "example@correo.com"
+    },
+    {
+        "nombre": "Micaela",
+        "apellido": "Ruella",
+        "edad": "24",
+        "direccion": "Gdor Gallino 399",
+        "correo": "example@correo.com"
+    },
+    {
+        "nombre": "Juan Carlos",
+        "apellido": "Lopez",
+        "edad": "36",
+        "direccion": "España 99",
+        "correo": "example@correo.com"
+    },
+    {
+        "nombre": "Rodolfo",
+        "apellido": "Riquelme",
+        "edad": "25",
+        "direccion": "Medrano 3568",
+        "correo": "example@correo.com"
+    },
+    {
+        "nombre": "Ricardo",
+        "apellido": "Montaner",
+        "edad": "55",
+        "direccion": "La paz 445",
+        "correo": "example@correo.com"
+    }
+]
